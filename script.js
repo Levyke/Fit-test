@@ -32,13 +32,13 @@ function Adatok(element)
     kerdes.innerHTML = "";
     kerdes.innerHTML +=
     `<section>
-        <h1>${element.question}</h1><br>
-        <label name="valasz" for="a" value="a">${element.answerA}</label>
-        <input type="radio" id="a"><br>
-        <label name="valasz" for="b" value="b">${element.answerB}</label>
-        <input type="radio" id="b"><br>
-        <label name="valasz" for="c" value="c">${element.answerC}</label>
-        <input type="radio" id="c">
+        <h1>${element.question}</h1>
+        <input name="valasz" type="radio" id="a">
+        <label for="a" value="a">${element.answerA}</label><br>
+        <input name="valasz" type="radio" id="b">
+        <label for="b" value="b">${element.answerB}</label><br>
+        <input name="valasz" type="radio" id="c">
+        <label for="c" value="c">${element.answerC}</label><br>
     </section>`;
 }
 
