@@ -1,0 +1,164 @@
+/* Frame 1 */
+
+position: relative;
+width: 1233px;
+height: 741px;
+
+background: #FFFFFF;
+
+
+/* fittest 1 */
+
+position: absolute;
+width: 1233px;
+height: 823px;
+left: 0px;
+top: -41px;
+
+background: url(fittest.png);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 459px;
+height: 46px;
+left: 389px;
+top: 47px;
+
+background: #D9D9D9;
+
+
+/* FIT TEST */
+
+position: absolute;
+width: 409px;
+height: 24px;
+left: 596px;
+top: 63px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 603px;
+height: 35px;
+left: 315px;
+top: 126px;
+
+background: #D9D9D9;
+
+
+/* Udvozol a fit test vezetoi ahol felmernek h mennyire vagy fit vagy nem */
+
+position: absolute;
+width: 590px;
+height: 19px;
+left: 395px;
+top: 134px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 611px;
+height: 110px;
+left: 306px;
+top: 197px;
+
+background: #D9D9D9;
+
+
+/* Hogy egyél, hogy jól legyél? Sokszor vagy fáradt, nincs energiád, nem tudsz figyelni, vagy épp túlpörögsz? Teszteld magad, és hamarosan kiderül, hogy kellene étkezned ahhoz, hogy megtapasztald a jobb, egészségesebb önmagad. (A teszt nem helyettesít semmilyen alapos orvosi kivizsgálást, csupán útmutatásként szolgál az egészségesebb és környezettudatosabb táplálkozáshoz) */
+
+position: absolute;
+width: 571px;
+height: 86px;
+left: 330px;
+top: 221px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 164px;
+height: 25px;
+left: 537px;
+top: 358px;
+
+background: #D9D9D9;
+
+
+/* Katt ide a kérdő ívhez */
+
+position: absolute;
+width: 146px;
+height: 5px;
+left: 555px;
+top: 366px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 578px;
+height: 43px;
+left: 323px;
+top: 680px;
+
+background: #D9D9D9;
+
+
+/* MADE BY: BIRO LEVENTE , BOGDÁN NORBERT , OLASZ KITTI */
+
+position: absolute;
+width: 554px;
+height: 26px;
+left: 443px;
+top: 697px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+ 
