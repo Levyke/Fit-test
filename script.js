@@ -26,34 +26,4 @@ function Beolvas()
     })
 }
 
-function Adatok(element)
-{
-    let kerdes = document.getElementById("kerdes");
-    kerdes.innerHTML = "";
-    kerdes.innerHTML +=
-    `<section>
-        <h1>${element.question}</h1>
-        <input name="valasz" type="radio" id="a">
-        <label for="a" value="a">${element.answerA}</label><br>
-        <input name="valasz" type="radio" id="b">
-        <label for="b" value="b">${element.answerB}</label><br>
-        <input name="valasz" type="radio" id="c">
-        <label for="c" value="c">${element.answerC}</label><br>
-    </section>`;
-}
-
-tovabb.addEventListener('click', Tovabb)
-function Tovabb()
-{
-    if (index < kerdesek.length - 1)
-    {
-        index++;
-        Adatok(kerdesek[index]);
-    }
-    else
-    {
-        tovabb.enabled = true;
-    }
-}
-
 Beolvas();
