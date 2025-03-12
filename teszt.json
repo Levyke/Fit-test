@@ -8,7 +8,8 @@
             "answerB": "b) Korán kelni? Soha! Ha lehet, akkor délnél előbb fel sem kelek.",
             "answerBPoint": "2",
             "answerC": "c) Rosszul alszom, ezért mindig addig alszom, amíg csak lehet.",
-            "answerCPoint": "3"
+            "answerCPoint": "3",
+            "image": "img/kep1.jpg"
         },
         {
             "question": "Szoktál esténként nassolni?",
@@ -17,7 +18,8 @@
             "answerB": "b) Igen, de ha lehet, akkor aszalt gyümölcsöt vagy olajos magvakat.",
             "answerBPoint": "2",
             "answerC": "c) Este sosem. Vigyázok az alakomra!",
-            "answerCPoint": "1"
+            "answerCPoint": "1",
+            "image": "img/kep2.jpg"
         },
         {
             "question": "Mennyit sportolsz?",
@@ -26,7 +28,8 @@
             "answerB": "b) Heti 3 alkalommal biztos. Szeretek mozogni.",
             "answerBPoint": "2",
             "answerC": "c) Biztos, hogy nem. Lustaság fél egészség!",
-            "answerCPoint": "3"
+            "answerCPoint": "3",
+            "image": "img/kep3.jpg"
         },
         {
             "question": "Mi a kedvenc sportod?",
@@ -35,7 +38,8 @@
             "answerB": "b) Az egyszemélyes sportok híve vagyok",
             "answerBPoint": "2",
             "answerC": "c) Sport? Mi is az?",
-            "answerCPoint": "3"
+            "answerCPoint": "3",
+            "image": "img/kep4.jpg"
         },
         {
             "question": "Mi az, amit a legszívesebben megennél most?",
@@ -44,7 +48,8 @@
             "answerB": "b) Egy lazacfilé salátával és dresszinggel jólesne most.",
             "answerBPoint": "1",
             "answerC": "c) Elég lesz egy csokitorta is, köszönöm!",
-            "answerCPoint": "3"
+            "answerCPoint": "3",
+            "image": "img/kep5.jpg"
         },
         {
             "question": "Milyen táplálékkiegészítőket szedsz rendszeresen?",
@@ -53,7 +58,8 @@
             "answerB": "b) Vitaminokat, abból is inkább C-, D vitamin.",
             "answerBPoint": "2",
             "answerC": "c) Pro- és prebiotikumokat, vitaminokat és proteint, ha edzek.",
-            "answerCPoint": "1"
+            "answerCPoint": "1",
+            "image": "img/kep6.jpg"
         },
         {
             "question": "Mennyi húst eszel egy héten?",
@@ -62,7 +68,8 @@
             "answerB": "b) Általában 2 kg, vagy annál kevesebb.",
             "answerBPoint": "2",
             "answerC": "c) Nem eszem húst, vegetáriánus vagyok.",
-            "answerCPoint": "1"
+            "answerCPoint": "1",
+            "image": "img/kep7.jpg"
         },
         {
             "question": "Próbáltad már a húshelyettesítő termékeket?",
@@ -71,7 +78,8 @@
             "answerB": "b) Nem, minek? Ha húst akarok enni, akkor azt eszem.",
             "answerBPoint": "3",
             "answerC": "c) Igen, de nem az én világom.",
-            "answerCPoint": "2"
+            "answerCPoint": "2",
+            "image": "img/kep8.jpg"
         },
         {
             "question": "Mennyi tejterméket fogyasztasz?",
@@ -80,7 +88,8 @@
             "answerB": "b) Csak akkor, ha megkívánom. Amúgy nem vagyok nagy sajtos.",
             "answerBPoint": "2",
             "answerC": "c) Nem eszem ilyesmit. Ha igen, az is inkább növényi.",
-            "answerCPoint": "1"
+            "answerCPoint": "1",
+            "image": "img/kep9.jpg"
         },
         {
             "question": "Tudod mit jelent a mikrobiom?",
@@ -89,7 +98,8 @@
             "answerB": "b) A bélben található rossz baktériumok.",
             "answerBPoint": "2",
             "answerC": "c) Nem tudom mi az, de nem is szeretem ezeket a latin szavas dolgokat.",
-            "answerCPoint": "3"
+            "answerCPoint": "3",
+            "image": "img/kep10.jpg"
         },
         {
             "question": "Mennyi vizet iszol egy nap?",
@@ -98,7 +108,8 @@
             "answerB": "b) Inkább Cola, Fanta, Hell. Ez számít?",
             "answerBPoint": "3",
             "answerC": "c) 2-2,5 L napi szinten megvan.",
-            "answerCPoint": "1"
+            "answerCPoint": "1",
+            "image": "img/kep11.jpg"
         },
         {
             "question": "Mennyi a képernyőidőd a telefonodon egy hét alatt?",
@@ -107,7 +118,8 @@
             "answerB": "b) 25 óra vagy alatt",
             "answerBPoint": "1",
             "answerC": "c) 50 és 25 óra között",
-            "answerCPoint": "2"
+            "answerCPoint": "2",
+            "image": "img/kep12.jpg"
         },
         {
             "question": "Hogy alszol el?",
@@ -116,7 +128,8 @@
             "answerB": "b) Tévézek vagy zenét hallgatok előtte.",
             "answerBPoint": "2",
             "answerC": "c) Tévére, zenére alszom el és (ha van) éjjeli fénnyel alszom.",
-            "answerCPoint": "3"
+            "answerCPoint": "3",
+            "image": "img/kep13.jpg"
         }
     ]
 }
