@@ -69,15 +69,15 @@ function Tovabb()
         let valasz = valasztott.value;
         if (valasz == "a")
         {
-            pont += parseInt(kerdesek[index].answerAPoint);
+            pont += parseInt(kerdesek[index - 1].answerAPoint);
         }
         else if (valasz == "b")
         {
-            pont += parseInt(kerdesek[index].answerBPoint);
+            pont += parseInt(kerdesek[index - 1].answerBPoint);
         }
         else if (valasz == "c")
         {
-            pont += parseInt(kerdesek[index].answerCPoint);
+            pont += parseInt(kerdesek[index - 1].answerCPoint);
         }
         console.log(valasz)
     }
