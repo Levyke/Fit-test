@@ -40,6 +40,7 @@ function Adatok(element)
     kerdes.innerHTML = "";
     kerdes.innerHTML +=
     `<section>
+        <img src="img/${element.image}" alt="${element.image}">
         <h1>${element.question}</h1>
         <input name="valasz" type="radio" id="a" value="a">
         <label for="a" value="a">${element.answerA}</label><br>
