@@ -1,0 +1,284 @@
+/* Frame 1 */
+
+position: relative;
+width: 1035px;
+height: 680px;
+
+background: #FFFFFF;
+
+
+/* fittest 1 */
+
+position: absolute;
+width: 1062px;
+height: 709px;
+left: -27px;
+top: -29px;
+
+background: url(fittest.png);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 548px;
+height: 33px;
+left: 244px;
+top: 37px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 507px;
+top: 172px;
+
+background: #D9D9D9;
+
+
+/* FIT TEST */
+
+position: absolute;
+width: 522px;
+height: 17px;
+left: 247px;
+top: 45px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 921px;
+height: 540px;
+left: 57px;
+top: 88px;
+
+background: #EDEDED;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 548px;
+height: 31px;
+left: 244px;
+top: 122px;
+
+background: #D9D9D9;
+
+
+/* 1. Mikor szoktál felkelni hétvégente? */
+
+position: absolute;
+width: 525px;
+height: 16px;
+left: 273px;
+top: 132px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 18px;
+height: 19px;
+left: 268px;
+top: 253px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 18px;
+height: 19px;
+left: 268px;
+top: 286px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 18px;
+height: 19px;
+left: 268px;
+top: 214px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 389px;
+height: 22px;
+left: 309px;
+top: 210px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 389px;
+height: 22px;
+left: 309px;
+top: 255px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 389px;
+height: 22px;
+left: 309px;
+top: 283px;
+
+background: #D9D9D9;
+
+
+/* a, */
+
+position: absolute;
+width: 13px;
+height: 10px;
+left: 273px;
+top: 214px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* b, */
+
+position: absolute;
+width: 14px;
+height: 8px;
+left: 272px;
+top: 255px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* c, */
+
+position: absolute;
+width: 15px;
+height: 12px;
+left: 272px;
+top: 288px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Korán kelni? Soha! Ha lehet, akkor délnél előbb fel sem kelek. (2) */
+
+position: absolute;
+width: 384px;
+height: 12px;
+left: 316px;
+top: 259px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Rosszul alszom, ezért mindig addig alszom, amíg csak lehet. (3) */
+
+position: absolute;
+width: 378px;
+height: 11px;
+left: 320px;
+top: 289px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 113px;
+height: 22px;
+left: 444px;
+top: 315px;
+
+background: #D9D9D9;
+
+
+/* Következő kérd */
+
+position: absolute;
+width: 95px;
+height: 12.52px;
+left: 456.24px;
+top: 316px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+transform: rotate(1.1deg);
