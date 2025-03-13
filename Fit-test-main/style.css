@@ -1,0 +1,77 @@
+body{
+    background-image: url(fittest.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+
+#frame1{
+    padding-top: 40%;
+}
+.tovabbBtn{
+    position: absolute;
+width: 95px;
+height: 12.52px;
+left: 456.24px;
+top: 316px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+transform: rotate(1.1deg);
+}
+h1{
+    text-align: center;
+    text-decoration: none;
+}
+.kezdes{
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+button{
+    display: block;
+    margin: auto;
+}
+h3{
+    text-align: center;
+    
+    
+}
+footer{
+   position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;    
+}
+img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+#kerdes {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    background-color: rgba(189, 189, 189, 0.5);
+    margin-left: 450px;
+    margin-right: 450px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
