@@ -62,11 +62,18 @@ function Adatok(element)
         <label for="c" value="c">${element.answerC}</label><br>
         <img src="img/${element.image}" alt="${element.image}">
     </section>`;
-
     RadioEsemenyfigyelo();
-    tovabb.disabled = true
-}
 
+    if(index == kerdesek.length - 1)
+    {
+        tovabb.style.display = "none";
+        eredmeny.style.display = "block";
+    }
+    
+    tovabb.disabled = true;
+    eredmeny.disabled = true;
+}
+    
 function Tovabb()
 {
     let valasztott = document.querySelector('input[name="valasz"]:checked');
@@ -74,10 +81,6 @@ function Tovabb()
     {
         index++;
         Adatok(kerdesek[index]);
-    }
-    else
-    {
-        eredmeny.style.display = "block";
     }
 
     if (valasztott != null)
@@ -144,7 +147,8 @@ function Tilt()
     let valasztott = document.querySelector('input[name="valasz"]:checked');
     if (valasztott != null)
     {
-        tovabb.disabled = false
+        tovabb.disabled = false;
+        eredmeny.disabled = false;
     }
 }
 Beolvas();
